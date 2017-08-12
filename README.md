@@ -2,6 +2,7 @@
 
 ## Introduction
 Game logic for the Snakes, Ladders & Traps. 
+
 The aim of the game is to first reach the last square labelled 100. 
 
 ## Completed
