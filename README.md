@@ -1,7 +1,8 @@
 # Snakes, Ladders & Traps Game
 
 ## Introduction
-Game logic for the Snakes, Ladders & Traps. The aim of the game is to first reach the last square labelled 100. 
+Game logic for the Snakes, Ladders & Traps. 
+The aim of the game is to first reach the last square labelled 100. 
 
 ## Completed
 Completed the method control in the SLGame class which implements the game logic.
